@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.KorotchenkoDM.Sprint3.Task0.V16.Lib;
+using Tyuiu.KorotchenkoDM.Sprint3.Task2.V14.Lib;
 
-namespace Tyuiu.KorotchenkoDM.Sprint3.Task0.V16
+namespace Tyuiu.KorotchenkoDM.Sprint3.Task2.V14
 {
     class Program
     {
@@ -14,14 +14,14 @@ namespace Tyuiu.KorotchenkoDM.Sprint3.Task0.V16
             Console.Title = "Спринт #3 | Выполнил: Коротченко Д. М. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Оператор цикла for                                                 ");
-            Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #16                                                             *");
+            Console.WriteLine("* Тема: Оператор цикла do-while                                           *");
+            Console.WriteLine("* Задание #2                                                              *");
+            Console.WriteLine("* Вариант #14                                                             *");
             Console.WriteLine("* Выполнил: Коротченко Данил Михайлович | ИСТНб-23-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу используя цикл for, которая вычисляет произведение   *");
-            Console.WriteLine("* ряда по формуле, при х = 5                                              *");
+            Console.WriteLine("* Написать программу используя цикл do...while, которая вычисляет         *");
+            Console.WriteLine("* произведение ряда по формуле, при х = 5                                 *");
             Console.WriteLine("*     6  ( x )^3                                                          *");
             Console.WriteLine("* р = П  (---)                                                            *");
             Console.WriteLine("*    k=1 ( k )                                                            *");
