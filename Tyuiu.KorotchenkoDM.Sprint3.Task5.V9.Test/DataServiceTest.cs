@@ -1,14 +1,14 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using Tyuiu.KorotchenkoDM.Sprint3.Task6.V9.Lib;
+using Tyuiu.KorotchenkoDM.Sprint3.Task5.V9.Lib;
 
-namespace Tyuiu.KorotchenkoDM.Sprint3.Task6.V9.Test
+namespace Tyuiu.KorotchenkoDM.Sprint3.Task5.V9.Test
 {
     [TestClass]
     public class DataServiceTest
     {
         [TestMethod]
-        public void ValidGetSumTheDivisors()
+        public void ValidGetSumSumSeries()
         {
             DataService ds = new DataService();
             int x = 5;

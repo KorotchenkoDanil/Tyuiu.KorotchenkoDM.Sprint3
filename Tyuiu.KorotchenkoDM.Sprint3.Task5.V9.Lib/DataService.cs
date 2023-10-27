@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint3;
 
-namespace Tyuiu.KorotchenkoDM.Sprint3.Task6.V9.Lib
+namespace Tyuiu.KorotchenkoDM.Sprint3.Task5.V9.Lib
 {
     public class DataService : ISprint3Task5V9
     {

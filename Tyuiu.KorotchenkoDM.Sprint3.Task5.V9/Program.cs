@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.KorotchenkoDM.Sprint3.Task6.V9.Lib;
+using Tyuiu.KorotchenkoDM.Sprint3.Task5.V9.Lib;
 
-namespace Tyuiu.KorotchenkoDM.Sprint3.Task6.V9
+namespace Tyuiu.KorotchenkoDM.Sprint3.Task5.V9
 {
     class Program
     {
@@ -15,7 +15,7 @@ namespace Tyuiu.KorotchenkoDM.Sprint3.Task6.V9
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Вложенные циклы                                                   *");
-            Console.WriteLine("* Задание #6                                                              *");
+            Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #9                                                              *");
             Console.WriteLine("* Выполнил: Коротченко Данил Михайлович | ИСТНб-23-1                      *");
             Console.WriteLine("***************************************************************************");
